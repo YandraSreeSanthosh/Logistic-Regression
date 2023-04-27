@@ -1,1 +1,2 @@
 # Logistic-Regression
+Logistic regression is a type of classification algorithm in machine learning that is used to predict a binary or multi-class label for a given input data. It is a linear model that uses a logistic function (also known as sigmoid function) to transform the output of a linear equation into a probability value between 0 and 1. This probability value is then used to predict the class label.
